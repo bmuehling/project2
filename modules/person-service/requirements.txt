@@ -1,0 +1,34 @@
+# --- Core ---
+Flask==3.0.2
+Werkzeug==3.0.1
+Jinja2==3.1.3
+itsdangerous==2.1.2
+Click==8.1.7
+numpy==1.26.4
+
+# --- REST API ---
+flask-restx==1.3.0
+flask-accepts==0.18.4
+flask-cors==4.0.0
+six==1.16.0
+
+# --- Serialization / Validation ---
+marshmallow==3.20.2
+marshmallow-sqlalchemy==1.4.2
+flask-marshmallow==1.4.0
+
+# --- Database ---
+SQLAlchemy==2.0.25
+Flask-SQLAlchemy==3.1.1
+GeoAlchemy2==0.14.4
+psycopg2-binary==2.9.9
+
+# --- Utilities ---
+python-dateutil==2.8.2
+pytz==2024.1
+jsonschema==4.21.1
+attrs==23.2.0
+pyrsistent==0.20.0
+
+# --- Geometry ---
+shapely==2.0.3
